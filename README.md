@@ -62,14 +62,6 @@ Observability  │ Datadog · CloudWatch · Grafana · K6 · Locust
 Payments       │ Adyen · Braintree · Clearpay · Stripe
 ```
 
-### 📊 Impact
-
-- **15 brands** — post-purchase commerce automation at scale
-- **6 AI agents** — built and shipped for quality engineering
-- **20+ repos** — open-source frameworks and tools
-- **3 clouds** — AWS, GCP, Azure production experience
-
----
 
 <div align="center">
 
