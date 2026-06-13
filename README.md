@@ -73,7 +73,7 @@ Payments       │ Adyen · Braintree · Clearpay · Stripe
 
 <div align="center">
 
-**Currently open to Lead Quality Architect / AI Automation roles in London (£130-150k)**
+**Currently open to Lead Quality Architect / AI Automation roles 
 
 [![Resume](https://img.shields.io/badge/Interactive_Resume-View-6366f1?style=for-the-badge)](https://jaigogineni.com/resume.html)
 [![Projects](https://img.shields.io/badge/Projects-Explore-10b981?style=for-the-badge)](https://jaigogineni.com/projects.html)
